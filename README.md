@@ -20,7 +20,7 @@ print("{:.2f}".format(d))
 
 ```
 ### OUTPUT:
-![label](./dist2pts.png)
+![label](/dist2pts.png)
 
 ### RESULT:
 The distance between 2 points is found successfuly.
