@@ -25,6 +25,8 @@ print("{:.2f}".format(d))
   
 
 ```
+
+
 ### OUTPUT:
 ![label](./Dist2pts.png)
 
