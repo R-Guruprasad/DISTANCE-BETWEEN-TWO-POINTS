@@ -8,7 +8,8 @@ Import the math library to solve using distance formula
 ### Step 2: 
 Enter the given matrices
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula2.png)
+Substitute the values in the distance formula  
+![formula](/formula2.png)
 ### Step 4: 
 Print the output with two values after decimal 
 ### PROGRAM:
